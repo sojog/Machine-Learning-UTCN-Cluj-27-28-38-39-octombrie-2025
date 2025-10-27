@@ -1,0 +1,13 @@
+
+## Site-oficial
+https://www.python.org/
+
+## Repo index
+https://pypi.org/
+
+## IDE Python
+https://code.visualstudio.com/
+
+## Python online
+https://colab.research.google.com/
+
